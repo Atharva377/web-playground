@@ -1,0 +1,10 @@
+# The .gitignore file will contain files and folders that should not be pushed to the GitHub repository
+
+# Dependency directories
+node_modules/
+
+# Python cache files
+__pycache__/
+
+# Environment files (contain sensitive data)
+.env
